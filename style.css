@@ -19,6 +19,9 @@
     display: flex;
     transform: translate(-190px,0);
 }
+.navbar img{
+   transform: translate(0,-10px);
+}
 .navbar ul li{
     list-style: none;
     font-weight: 400;
